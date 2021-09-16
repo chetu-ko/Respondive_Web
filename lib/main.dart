@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Flutter Demo',
+      title: 'Flutter_Responsive_Practice',
       theme: ThemeData.dark().copyWith(
         scaffoldBackgroundColor: Colors.blue[50],
         secondaryHeaderColor: Colors.indigo[600],
